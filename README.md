@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 🎮👾
 
-![Banner](https://yourbannerimageurl.com/banner.png](https://drive.google.com/file/d/1eXZ7QTJp_aAF_Bhh4QHjmXQ5zWiA-ycY/view)
+![Banner]([https://yourbannerimageurl.com/banner.png](https://drive.google.com/file/d/1eXZ7QTJp_aAF_Bhh4QHjmXQ5zWiA-ycY/view](https://drive.google.com/file/d/1eXZ7QTJp_aAF_Bhh4QHjmXQ5zWiA-ycY/view))
 
 ## About Me 🚀
 
