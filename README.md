@@ -55,11 +55,11 @@ Hello there! I'm **Luís Carvalho**, a passionate developer, gamer, and tech ent
 ## Connect with Me 🤝
 
 <p align="center">
-  <a href="https://linkedin.com/in/LemanuelPC" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://linkedin.com/in/le-pc" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://steamcommunity.com/id/---z3r0---/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
@@ -74,4 +74,4 @@ Hello there! I'm **Luís Carvalho**, a passionate developer, gamer, and tech ent
 
 ---
 
-![Footer](https://yourfooterimageurl.com/footer.png)
+![Footer](https://i.ibb.co/Pz9x53d/gitfooter.webp)
