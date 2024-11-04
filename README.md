@@ -6,9 +6,9 @@
 
 Hello there! I'm **Luís Carvalho**, a passionate developer, gamer, and tech enthusiast. Welcome to my GitHub profile where I share my journey in the world of technology and gaming. I love exploring new technologies, working on innovative projects, and leveling up my skills. Here’s a bit about me and the tech stack I specialize in:
 
-- 🔭 I’m currently working on getting **AWS re/Start Certification**
-- 🌱 I’m learning **React and Tailwind**
-- 🎮 I’m an avid gamer and love to play **HellDivers 2** or **Dragon's Dogma 2**
+- 🔭 ~~I’m currently working on getting **AWS re/Start Certification**~~ Done!⭐ Now working on getting an **Outsystems** certification.
+- 🌱 I’m actively improving my **React and Tailwind** knowledge
+- 🎮 I’m an avid gamer and currently playing **Metaphor: ReFantazio** and **Dragon Age: The Veilguard**
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything tech-related or just say hi!
 - 📫 How to reach me: **prazerescarvalho@gmail.com**
