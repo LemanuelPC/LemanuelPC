@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 🎮👾
 
-![Banner](https://i.ibb.co/kGLcSx7/gitbanner.webp)
+![Banner](https://lepc.dev/gitbanner.webp)
 
 ## About Me 🚀
 
@@ -122,4 +122,4 @@ Hello there! I'm **Luís Carvalho**, a passionate developer, gamer, and tech ent
 
 ---
 
-![Footer](https://i.ibb.co/Pz9x53d/gitfooter.webp)
+![Footer](https://lepc.dev/gitfooter.webp)
