@@ -8,7 +8,7 @@ Hello there! I'm **Luís Carvalho**, a passionate developer, gamer, and tech ent
 
 - 🔭 ~~I’m currently working on getting **AWS re/Start Certification**~~ Done!⭐ Now working on getting an **Outsystems** certification.
 - 🌱 I’m actively improving my **React and Tailwind** knowledge
-- 🎮 I’m an avid gamer and currently playing **Metaphor: ReFantazio** and **Dragon Age: The Veilguard**
+- 🎮 I’m an avid gamer and currently playing **Warzone**, **Metaphor: ReFantazio** and **Clair Obscur: Expedition 33**
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything tech-related or just say hi!
 - 📫 How to reach me: **prazerescarvalho@gmail.com**
